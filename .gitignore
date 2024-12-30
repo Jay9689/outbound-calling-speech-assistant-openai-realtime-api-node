@@ -1,0 +1,35 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Temporary folders like cache or tmp
+tmp/
+temp/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Production build files
+/dist
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Ignore build output
+build/
